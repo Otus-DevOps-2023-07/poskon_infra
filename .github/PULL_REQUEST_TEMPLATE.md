@@ -26,20 +26,20 @@
                 <div class="text-red" style="top: 72px;">заблокирован</div>
                 <div class="text-red" style="top: 80px;">по решению органов государственной власти</div>
                 <div class="stripe" style="top: 96px;">
-                  <div class="text-grey2" style="top: 25px;">Посмотреть причину блокировки можно в 
+                  <div class="text-grey2" style="top: 25px;">Посмотреть причину блокировки можно в
                     <a href="http://blocklist.rkn.gov.ru/">едином реестре</a>
                   </div>
                 </div>
 				<div class="stripe" style="top: 125px;">
 				  <div class="text-grey2" style="top: 50px;">&nbsp;</div>
-					<div class="banner_zone">   
+					<div class="banner_zone">
 						<div  class="banner">
 							<div class="text-red2">Подключай Интерактивное ТВ</div>
 							<div class="text-grey3">и сам контролируй, что блокировать!</div>
 							<div class="pic_du"></div>
 							<span><a href="http://itv.myttk.ru/" class="red_but">Подключить</a></span>
 						</div>
-					</div>	
+					</div>
 				</div>
             </div>
         </div>
