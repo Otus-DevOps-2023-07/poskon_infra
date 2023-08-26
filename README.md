@@ -19,3 +19,8 @@ ssh someinternalhost
 # Конфигурация
 bastion_IP = 130.193.49.244
 someinternalhost_IP = 10.128.0.9
+
+
+# ДЗ #4
+testapp_IP =
+testapp_port = 9292
