@@ -12,8 +12,8 @@ package_upgrade: true
 packages:
   - git
 runcmd:
-  - sudo git clone https://github.com/Otus-DevOps-2023-07/poskon_infra.git /home/yc-user/poskon_infra
+  - git clone https://github.com/Otus-DevOps-2023-07/poskon_infra.git /home/yc-user/poskon_infra
   - cd /home/yc-user/poskon_infra
-  - sudo git checkout cloud-testapp
-  - sudo /home/yc-user/poskon_infra/install_ruby.sh && sudo /home/yc-user/poskon_infra/install_mongodb.sh && sudo /home/yc-user/poskon_infra/deploy.sh
-  - sudo rm -r /home/yc-user/poskon_infra
+  - git checkout cloud-testapp
+  - /home/yc-user/poskon_infra/install_ruby.sh && /home/yc-user/poskon_infra/install_mongodb.sh && /home/yc-user/poskon_infra/deploy.sh
+  - rm -r /home/yc-user/poskon_infra
